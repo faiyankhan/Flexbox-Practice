@@ -7,3 +7,23 @@
     flex-wrap: wrap;
     height: 500px;
 }
+
+.img1 {
+    height: 130px;
+    width: 200px;
+    border-radius: 3px 3px 0 0;
+}
+
+.cards {
+    border: 3px solid black;
+    border-radius: 6px;
+    margin: 10px;
+    background-color: #ffc266;
+    height: 180px;
+}
+
+.card-name {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
